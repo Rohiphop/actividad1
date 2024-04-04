@@ -1,0 +1,38 @@
+.centrar_titulo{
+    color: rgba(49, 49, 16, 0.979);
+    text-align: center;
+    font: 200;
+    font-style: inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
+
+.parrafo{
+    color: rgb(21, 97, 97);
+    text-align: center;
+    font: size 10000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.integrantes {
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    list-style-type: noen;
+    background-color: rgba(0, 255, 255, 0.349);
+    font-style: italic;
+}
+
+.atras{
+    position: static;
+    top: 0;
+    right: 100;
+    color:blueviolet;
+    text-align:right;
+    font: size 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
